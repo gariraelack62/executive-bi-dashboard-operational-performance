@@ -30,7 +30,7 @@ The solution focuses on **clarity, trust, and decision-making**, translating raw
 
 - Clear executive summary and actionable recommendations
 
-  ---
+---
 
 ## 🏗️ Technical Approach
 
