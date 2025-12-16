@@ -1,61 +1,71 @@
-## 📊 Executive BI Dashboard – Operational Performance
+# 📊 Executive BI Dashboard – Operational Performance
 
-This project demonstrates the design and delivery of an executive-ready Business Intelligence dashboard that enables leadership to monitor revenue, profitability, and delivery performance in a fast-paced operational environment.
+This project demonstrates the design and delivery of **an executive-ready Business Intelligence dashboard** that enables leadership to monitor **revenue, profitability, and delivery performance** in a fast-paced operational environment.
 
-The solution focuses on clarity, trust, and decision-making, translating raw transactional data into actionable insights suitable for senior management review.
+The solution focuses on **clarity, trust, and decision-making**, translating raw transactional data into actionable insights suitable for senior management review.
+
+---
 
 ## 🔍 Business Objective
 
-Provide a single source of truth that answers three executive questions:
+- Provide a **single source of truth** that answers three executive questions:
 
-How are we performing financially?
+- How are we performing financially?
 
-Where are the operational risks?
+- Where are the operational risks?
 
-What actions should leadership prioritise?
+- What actions should leadership prioritise?
+
+---
 
 ## 🧠 Key Features
 
-**Executive KPI overview (Revenue, Profit, Margin, Delivery Performance)**
+- Executive KPI overview (Revenue, Profit, Margin, Delivery Performance)
 
-**Trend analysis to identify growth patterns and margin pressure**
+- Trend analysis to identify growth patterns and margin pressure
 
-**Customer and product contribution analysis**
+- Customer and product contribution analysis
 
-**Delivery efficiency and risk monitoring**
+- Delivery efficiency and risk monitoring
 
-**Clear executive summary and actionable recommendations**
+- Clear executive summary and actionable recommendations
+
+  ---
 
 ## 🏗️ Technical Approach
 
-Star schema data model optimised for BI performance
+- **Star schema data model** optimised for BI performance
 
-Business-driven DAX measures for revenue, cost, profit, and service metrics
+- Business-driven **DAX measures** for revenue, cost, profit, and service metrics
 
-Time intelligence (YTD, MoM trends)
+- Time intelligence (YTD, MoM trends)
 
-Data quality checks and documented assumptions
+- Data quality checks and documented assumptions
 
-Clean, minimal visual design aligned with executive reporting standards
+- Clean, minimal visual design aligned with executive reporting standards
+
+---
 
 ## 🛠️ Tools & Technologies
 
-Power BI
+- Power BI
 
-SQL (data preparation & validation)
+- SQL (data preparation & validation)
 
-DAX
+- DAX
 
-Excel / CSV data source
+- Excel / CSV data source
+
+---
 
 ## 📈 Outcome
 
 This dashboard enables leaders to:
 
-Quickly assess overall performance
+- Quickly assess overall performance
 
-Identify margin and service risks
+- Identify margin and service risks
 
-Focus attention on high-impact customers and products
+- Focus attention on high-impact customers and products
 
-Make faster, insight-led decisions
+- Make faster, insight-led decisions
